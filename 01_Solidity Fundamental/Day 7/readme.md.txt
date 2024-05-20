@@ -1,0 +1,6 @@
+CrossChainPriceNFT: 0x9e084D0DE828715daff6528C115eE1231197400D
+CrossDestinationMinter: 0xfadb7b9505c3F86b7094Ae2b75269A5a44C4190D
+CrossSourceMinter: 0xE6D2B2CE63e406E146a6753AfB59e280579C95FE
+
+CCIP Transactions: https://ccip.chain.link/msg/0xff84e32b1bc09cdcb999a7f7a213cac3d4a7e038a94f3ce3139dc3907d701f6e
+Opensea Testnet: https://testnets.opensea.io/collection/crosschain-price-1603
